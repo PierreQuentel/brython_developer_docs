@@ -1,2 +1,4 @@
-# brython_developer_docs
-Documentation for Brython developers
+# Brython Developer Documentation
+Describes the internals of [Brython]
+(https://github.com/PierreQuentel/brython) and how developers can contribute 
+to the project.
